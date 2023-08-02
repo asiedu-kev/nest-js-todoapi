@@ -32,6 +32,13 @@
 $ npm install
 ```
 
+## Running the app with Docker
+
+```bash
+# development
+$ docker-compose up --build
+```
+
 ## Running the app
 
 ```bash
@@ -44,7 +51,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
+Documentation can be found at `/docs`
 ## Test
 
 ```bash
